@@ -1,0 +1,181 @@
+Logfile initialized
+[INFO] logfile = D:\Titanium Studio Workspace\Fournote\build.log
+[DEBUG] C:\Users\m8532\AppData\Roaming\Titanium\mobilesdk\win32\1.7.5\android\builder.py simulator Fournote C:\Program Files\Android\android-sdk D:\Titanium Studio Workspace\Fournote com.fournote.mobile 5 HVGA
+[INFO] Building Fournote for Android ... one moment
+[INFO] Titanium SDK version: 1.7.5 (11/02/11 17:00 ab20af7)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 1 devices/emulators
+[DEBUG] Device connected... (waited 0 seconds)
+[DEBUG] waited 0.012000 seconds on emulator to get ready
+[DEBUG] com.fournote.mobile installed? False
+[INFO] Fastdev server running, deploying in Fastdev mode
+[INFO] Copying project resources..
+[INFO] Detected tiapp.xml change (or assets deleted), forcing full re-build...
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\android\appicon.png => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\appicon.png
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\android\default.png => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\default.png
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\app.js => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\app.js
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\images\6dots.png => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\images\6dots.png
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\images\6dots@2x.png => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\images\6dots@2x.png
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\images\buttonbar\button2_selected.png => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\images\buttonbar\button2_selected.png
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\images\buttonbar\button2_selected@2x.png => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\images\buttonbar\button2_selected@2x.png
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\images\buttonbar\button2_unselected_shadow.png => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\images\buttonbar\button2_unselected_shadow.png
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\images\buttonbar\button2_unselected_shadow@2x.png => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\images\buttonbar\button2_unselected_shadow@2x.png
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\images\buttonbar\button2_unselected_shadowL.png => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\images\buttonbar\button2_unselected_shadowL.png
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\images\buttonbar\button2_unselected_shadowL@2x.png => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\images\buttonbar\button2_unselected_shadowL@2x.png
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\images\buttonbar\button2_unselected_shadowR.png => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\images\buttonbar\button2_unselected_shadowR.png
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\images\buttonbar\button2_unselected_shadowR@2x.png => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\images\buttonbar\button2_unselected_shadowR@2x.png
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\images\dashboard\chat.png => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\images\dashboard\chat.png
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\images\dashboard\chat@2x.png => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\images\dashboard\chat@2x.png
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\images\dashboard\invite.png => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\images\dashboard\invite.png
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\images\dashboard\invite@2x.png => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\images\dashboard\invite@2x.png
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\images\dashboard\logout.png => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\images\dashboard\logout.png
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\images\dashboard\logout@2x.png => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\images\dashboard\logout@2x.png
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\images\dashboard\photo.png => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\images\dashboard\photo.png
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\images\dashboard\photo@2x.png => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\images\dashboard\photo@2x.png
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\images\dashboard\settings.png => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\images\dashboard\settings.png
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\images\dashboard\settings@2x.png => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\images\dashboard\settings@2x.png
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\images\dashboard\video.png => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\images\dashboard\video.png
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\images\dashboard\video@2x.png => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\images\dashboard\video@2x.png
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\images\home.png => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\images\home.png
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\images\home@2x.png => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\images\home@2x.png
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\images\home_ipad.png => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\images\home_ipad.png
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\images\sessionbckgd.png => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\images\sessionbckgd.png
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\images\sessionbckgd@2x.png => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\images\sessionbckgd@2x.png
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\images\userpict-large.png => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\images\userpict-large.png
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\lib\common.psets.js => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\lib\common.psets.js
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\lib\date.js => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\lib\date.js
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\lib\globals.js => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\lib\globals.js
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\lib\helium.js => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\lib\helium.js
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\lib\initialize.js => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\lib\initialize.js
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\lib\install.js => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\lib\install.js
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\lib\joli.js => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\lib\joli.js
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\lib\models.js => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\lib\models.js
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\lib\require.js => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\lib\require.js
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\ui\android\AndroidWindow.js => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\ui\android\AndroidWindow.js
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\ui\common\ArticleWebView.js => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\ui\common\ArticleWebView.js
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\ui\common\Copy of login.js => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\ui\common\Copy of login.js
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\ui\common\icons.js => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\ui\common\icons.js
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\ui\common\login.js => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\ui\common\login.js
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\ui\common\main.js => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\ui\common\main.js
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\ui\common\NewsTableView.js => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\ui\common\NewsTableView.js
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\ui\common\TeamChooserTableView.js => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\ui\common\TeamChooserTableView.js
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\ui\common\ToolTipView.js => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\ui\common\ToolTipView.js
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\ui\ipad\iPadWindow.js => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\ui\ipad\iPadWindow.js
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\ui\ipad\NewsFeedView.js => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\ui\ipad\NewsFeedView.js
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\ui\ipad\NewsItemView.js => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\ui\ipad\NewsItemView.js
+[TRACE] COPYING CREATED FILE: D:\Titanium Studio Workspace\Fournote\Resources\ui\iphone\iPhoneWindow.js => D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\ui\iphone\iPhoneWindow.js
+[TRACE] Generating Java Classes
+[DEBUG] Processing Android resource drawables
+[DEBUG] found special platform files dir = D:\Titanium Studio Workspace\Fournote\platform\android
+[DEBUG] app stylesheet => D:\Titanium Studio Workspace\Fournote\build\android\gen\com\fournote\mobile\ApplicationStylesheet.java
+[DEBUG] copying app icon: D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\appicon.png
+[DEBUG] generating theme.xml
+[DEBUG] found splash screen at D:\Titanium Studio Workspace\Fournote\build\android\bin\assets\Resources\default.png
+[INFO] Detected custom ApplicationManifest.xml -- no Titanium version migration supported
+[TRACE] Writing out AndroidManifest.xml
+[DEBUG] adding D:\Titanium Studio Workspace\Fournote\build\android\gen\com\fournote\mobile\ApplicationStylesheet.java to javac build list
+[DEBUG] adding D:\Titanium Studio Workspace\Fournote\build\android\gen\com\fournote\mobile\FournoteActivity.java to javac build list
+[DEBUG] adding D:\Titanium Studio Workspace\Fournote\build\android\gen\com\fournote\mobile\FournoteAppInfo.java to javac build list
+[DEBUG] adding D:\Titanium Studio Workspace\Fournote\build\android\gen\com\fournote\mobile\FournoteApplication.java to javac build list
+[DEBUG] adding D:\Titanium Studio Workspace\Fournote\build\android\gen\com\fournote\mobile\R.java to javac build list
+[DEBUG] Building Java Sources: "D:\\Titanium Studio Workspace\\Fournote\\build\\android\\gen\\com\\fournote\\mobile\\ApplicationStylesheet.java" "D:\\Titanium Studio Workspace\\Fournote\\build\\android\\gen\\com\\fournote\\mobile\\FournoteActivity.java" "D:\\Titanium Studio Workspace\\Fournote\\build\\android\\gen\\com\\fournote\\mobile\\FournoteAppInfo.java" "D:\\Titanium Studio Workspace\\Fournote\\build\\android\\gen\\com\\fournote\\mobile\\FournoteApplication.java" "D:\\Titanium Studio Workspace\\Fournote\\build\\android\\gen\\com\\fournote\\mobile\\R.java"
+[INFO] Waiting for SDCard to become available..
+[INFO] Compiling Android Resources... This could take some time
+[DEBUG] Android classes.dex built
+[DEBUG] creating unsigned apk: D:\Titanium Studio Workspace\Fournote\build\android\bin\app-unsigned.apk
+[DEBUG] from resource zip => assets/Resources/images/buttonbar/button2_selected.png
+[DEBUG] from resource zip => assets/Resources/images/buttonbar/button2_selected@2x.png
+[DEBUG] from resource zip => assets/Resources/images/buttonbar/button2_unselected_shadow.png
+[DEBUG] from resource zip => assets/Resources/images/buttonbar/button2_unselected_shadow@2x.png
+[DEBUG] from resource zip => assets/Resources/images/buttonbar/button2_unselected_shadowL.png
+[DEBUG] from resource zip => assets/Resources/images/buttonbar/button2_unselected_shadowL@2x.png
+[DEBUG] from resource zip => assets/Resources/images/buttonbar/button2_unselected_shadowR.png
+[DEBUG] from resource zip => assets/Resources/images/buttonbar/button2_unselected_shadowR@2x.png
+[DEBUG] from resource zip => assets/Resources/images/dashboard/chat.png
+[DEBUG] from resource zip => assets/Resources/images/dashboard/chat@2x.png
+[DEBUG] from resource zip => assets/Resources/images/dashboard/invite.png
+[DEBUG] from resource zip => assets/Resources/images/dashboard/invite@2x.png
+[DEBUG] from resource zip => assets/Resources/images/dashboard/logout.png
+[DEBUG] from resource zip => assets/Resources/images/dashboard/logout@2x.png
+[DEBUG] from resource zip => assets/Resources/images/dashboard/photo.png
+[DEBUG] from resource zip => assets/Resources/images/dashboard/photo@2x.png
+[DEBUG] from resource zip => assets/Resources/images/dashboard/settings.png
+[DEBUG] from resource zip => assets/Resources/images/dashboard/settings@2x.png
+[DEBUG] from resource zip => assets/Resources/images/dashboard/video.png
+[DEBUG] from resource zip => assets/Resources/images/dashboard/video@2x.png
+[DEBUG] from resource zip => assets/Resources/images/6dots.png
+[DEBUG] from resource zip => assets/Resources/images/6dots@2x.png
+[DEBUG] from resource zip => assets/Resources/images/home.png
+[DEBUG] from resource zip => assets/Resources/images/home@2x.png
+[DEBUG] from resource zip => assets/Resources/images/home_ipad.png
+[DEBUG] from resource zip => assets/Resources/images/sessionbckgd.png
+[DEBUG] from resource zip => assets/Resources/images/sessionbckgd@2x.png
+[DEBUG] from resource zip => assets/Resources/images/userpict-large.png
+[DEBUG] from resource zip => assets/Resources/lib/common.psets.js
+[DEBUG] from resource zip => assets/Resources/lib/date.js
+[DEBUG] from resource zip => assets/Resources/lib/globals.js
+[DEBUG] from resource zip => assets/Resources/lib/helium.js
+[DEBUG] from resource zip => assets/Resources/lib/initialize.js
+[DEBUG] from resource zip => assets/Resources/lib/install.js
+[DEBUG] from resource zip => assets/Resources/lib/joli.js
+[DEBUG] from resource zip => assets/Resources/lib/models.js
+[DEBUG] from resource zip => assets/Resources/lib/require.js
+[DEBUG] from resource zip => assets/Resources/ui/android/AndroidWindow.js
+[DEBUG] from resource zip => assets/Resources/ui/common/ArticleWebView.js
+[DEBUG] from resource zip => assets/Resources/ui/common/Copy of login.js
+[DEBUG] from resource zip => assets/Resources/ui/common/NewsTableView.js
+[DEBUG] from resource zip => assets/Resources/ui/common/TeamChooserTableView.js
+[DEBUG] from resource zip => assets/Resources/ui/common/ToolTipView.js
+[DEBUG] from resource zip => assets/Resources/ui/common/icons.js
+[DEBUG] from resource zip => assets/Resources/ui/common/login.js
+[DEBUG] from resource zip => assets/Resources/ui/common/main.js
+[DEBUG] from resource zip => assets/Resources/ui/ipad/NewsFeedView.js
+[DEBUG] from resource zip => assets/Resources/ui/ipad/NewsItemView.js
+[DEBUG] from resource zip => assets/Resources/ui/ipad/iPadWindow.js
+[DEBUG] from resource zip => assets/Resources/ui/iphone/iPhoneWindow.js
+[DEBUG] from resource zip => assets/Resources/app.js
+[DEBUG] from resource zip => assets/Resources/appicon.png
+[DEBUG] from resource zip => assets/Resources/default.png
+[DEBUG] from resource zip => assets/tiapp.xml
+[DEBUG] from resource zip => res/drawable/appicon.png
+[DEBUG] from resource zip => res/drawable/background.png
+[DEBUG] from resource zip => res/drawable/facebook_icon.png
+[DEBUG] from resource zip => res/drawable/facebook_login.png
+[DEBUG] from resource zip => res/drawable/facebook_login_down.png
+[DEBUG] from resource zip => res/drawable/facebook_login_wide.png
+[DEBUG] from resource zip => res/drawable/facebook_login_wide_down.png
+[DEBUG] from resource zip => res/drawable/facebook_logout.png
+[DEBUG] from resource zip => res/drawable/facebook_logout_down.png
+[DEBUG] from resource zip => res/layout/titanium_tabgroup.xml
+[DEBUG] from resource zip => AndroidManifest.xml
+[DEBUG] from resource zip => resources.arsc
+[DEBUG] from resource zip => res/drawable-hdpi/facebook_icon.png
+[DEBUG] from resource zip => res/drawable-ldpi/facebook_icon.png
+[DEBUG] from JAR C:\Users\m8532\AppData\Roaming\Titanium\mobilesdk\win32\1.7.5\android\modules\titanium-ui.jar => ti/modules/titanium/ui/widget/webview/binding.js
+[DEBUG] from JAR C:\Users\m8532\AppData\Roaming\Titanium\mobilesdk\win32\1.7.5\android\modules\titanium-ui.jar => ti/modules/titanium/ui/widget/webview/binding.min.js
+[DEBUG] from JAR C:\Users\m8532\AppData\Roaming\Titanium\mobilesdk\win32\1.7.5\android\modules\titanium-ui.jar => ti/modules/titanium/ui/widget/webview/json2.js
+[DEBUG] from JAR C:\Users\m8532\AppData\Roaming\Titanium\mobilesdk\win32\1.7.5\android\smalljs.jar => org/mozilla/javascript/resources/Messages.properties
+[DEBUG] from JAR C:\Users\m8532\AppData\Roaming\Titanium\mobilesdk\win32\1.7.5\android\smalljs.jar => org/mozilla/javascript/resources/Messages_fr.properties
+[DEBUG] from JAR C:\Users\m8532\AppData\Roaming\Titanium\mobilesdk\win32\1.7.5\android\titanium.jar => org/apache/Commons-NOTICE.txt
+[DEBUG] from JAR C:\Users\m8532\AppData\Roaming\Titanium\mobilesdk\win32\1.7.5\android\titanium.jar => org/apache/HttpComponents-NOTICE.txt
+[DEBUG] from JAR C:\Users\m8532\AppData\Roaming\Titanium\mobilesdk\win32\1.7.5\android\titanium.jar => org/apache/mime4j-NOTICE.txt
+[DEBUG] from JAR C:\Users\m8532\AppData\Roaming\Titanium\mobilesdk\win32\1.7.5\android\titanium.jar => org/appcelerator/titanium/build.properties
+[DEBUG] from JAR C:\Users\m8532\AppData\Roaming\Titanium\mobilesdk\win32\1.7.5\android\titanium.jar => org/appcelerator/titanium/res/drawable/background.png
+[DEBUG] from JAR C:\Users\m8532\AppData\Roaming\Titanium\mobilesdk\win32\1.7.5\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on.png
+[DEBUG] from JAR C:\Users\m8532\AppData\Roaming\Titanium\mobilesdk\win32\1.7.5\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_18.png
+[DEBUG] from JAR C:\Users\m8532\AppData\Roaming\Titanium\mobilesdk\win32\1.7.5\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_48.png
+[DEBUG] from JAR C:\Users\m8532\AppData\Roaming\Titanium\mobilesdk\win32\1.7.5\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_more.png
+[DEBUG] from JAR C:\Users\m8532\AppData\Roaming\Titanium\mobilesdk\win32\1.7.5\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_18.png
+[DEBUG] from JAR C:\Users\m8532\AppData\Roaming\Titanium\mobilesdk\win32\1.7.5\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_48.png
+[DEBUG] from JAR C:\Users\m8532\AppData\Roaming\Titanium\mobilesdk\win32\1.7.5\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_normal.9.png
+[DEBUG] from JAR C:\Users\m8532\AppData\Roaming\Titanium\mobilesdk\win32\1.7.5\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_pressed.9.png
+[DEBUG] from JAR C:\Users\m8532\AppData\Roaming\Titanium\mobilesdk\win32\1.7.5\android\titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_selected.9.png
+[DEBUG] from JAR C:\Users\m8532\AppData\Roaming\Titanium\mobilesdk\win32\1.7.5\android\titanium.jar => org/appcelerator/titanium/res/drawable/default_icon.png
+[DEBUG] from JAR C:\Users\m8532\AppData\Roaming\Titanium\mobilesdk\win32\1.7.5\android\titanium.jar => org/appcelerator/titanium/res/drawable/photoDefault.png
+[DEBUG] from JAR C:\Users\m8532\AppData\Roaming\Titanium\mobilesdk\win32\1.7.5\android\modules\titanium-facebook.jar => ti/modules/titanium/facebook/LICENSE
+[DEBUG] from JAR C:\Users\m8532\AppData\Roaming\Titanium\mobilesdk\win32\1.7.5\android\modules\titanium-yahoo.jar => ti/modules/titanium/yahoo/yahoo.js
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 1 devices/emulators
+[DEBUG] Device connected... (waited 0 seconds)
+[DEBUG] waited 0.016000 seconds on emulator to get ready
+[INFO] Installing application on device
